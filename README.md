@@ -4,7 +4,8 @@ This is for an application like Book My show
 # OnlineTicketBooking
 This is for an application like Book My show
 
-Below are the tables which we have used in this application'
+Below are the tables which we have used in this application
+
 1- User - A user has to be added for the Booking. Primary key is the Mobile Number. 
 2- Movie - A movie has to added for any booking. Movie_Id(Long) is the key. 
 3- Theater - This table has all details about the theater. and Theater_Id is the key. 
